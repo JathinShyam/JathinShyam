@@ -1,26 +1,58 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm K Shyam Kumar Reddy</h1>
-<h3 align="center">A passionate Back-end developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jathinshyam&label=Profile%20views&color=0e75b6&style=flat" alt="jathinshyam" /> </p>
+<h1>Shyam Kumar Reddy K</h1>
+<h3>A thoughtful backend engineer, crafting scalable systems with code and curiosity.</h3>
 
-<p align="left"> <a href="https://twitter.com/jathinshyam" target="blank"><img src="https://img.shields.io/twitter/follow/jathinshyam?logo=twitter&style=for-the-badge" alt="jathinshyam" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on [Pulse](https://github.com/JathinShyam/Pulse)
+---
 
-- 🌱 I’m currently learning **Back-end development**
+Shyam is a passionate software engineer based in **Hyderabad, Telangana**, with a strong focus on building reliable and efficient backend systems. He currently works as an **SDE 1 at AltiusHub**, where he designs and develops production-grade applications.
 
-- 💬 Ask me about **Django, Data Science and Machine Learning**
+With deep expertise in Python and Django, Shyam enjoys architecting clean APIs, optimizing data flows, and solving complex engineering problems. He maintains a curious and growth-oriented mindset, constantly refining his skills in backend architecture and system design.
 
-- 📫 How to reach me **kshyamrdy@gmail.com**
+### Current Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jathinshyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jathinshyam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jathinshyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jathinshyam" height="30" width="40" /></a>
-<a href="https://instagram.com/jathinshyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jathinshyam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jathinshyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jathinshyam" height="30" width="40" /></a>
-</p>
+- Actively developing **Pulse** — a scalable notification and background job processing system.
+- Building **SmartMigrate** — a powerful data migration and management tool.
+- Deepening knowledge in distributed systems, performance optimization, and modern backend practices.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Tech Stack
+
+**Languages & Frameworks**  
+🐍 **Python** • **Django** • REST APIs
+
+**Databases**  
+🐘 **PostgreSQL** • **MySQL** • **MongoDB**
+
+**Tools & Others**  
+🐙 **Git** • 🐳 **Docker** • Linux
+
+### Featured Projects
+
+- **[Pulse](https://github.com/JathinShyam/Pulse)** — Scalable notification & background job system
+- **[SmartMigrate](https://github.com/JathinShyam/SmartMigrate)** — Advanced data migration and management tool
+- **[Recipe App API](https://github.com/JathinShyam/recipe-app-api)** — Clean, production-style backend API
+- **[Bagavad Gita App](https://github.com/JathinShyam/BagavadGitaApp)** — Telugu Bhagavad Gita Android application
+
+---
+
+### Let's Connect
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iShyam99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jathinshyam)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jathinshyam/)
+
+**Email**: [kshyamrdy@gmail.com](mailto:kshyamrdy@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*Curious by nature and driven by the desire to build meaningful technology. Always open to interesting conversations and collaborative opportunities.*
+
+</div>
